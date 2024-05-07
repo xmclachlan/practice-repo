@@ -4,4 +4,9 @@ This repo is following the tutorial which can be found here: https://github.com/
 
 Testing VS Code's built in Git
 
-You can find Open Source Projects here: - https://opensauced.pizza - Open Sauced Discord - Github, Gitlab - And many more!
+You can find Open Source Projects here:
+
+- https://opensauced.pizza
+- Open Sauced Discord
+- Github, Gitlab
+- And many more!
